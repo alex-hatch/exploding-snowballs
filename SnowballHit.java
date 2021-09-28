@@ -24,7 +24,4 @@ public class SnowballHit implements Listener {
             world.createExplosion(x,y,z, 4, false, true);
         }
     }
-
-
-
 }
